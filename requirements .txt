@@ -1,1 +1,2 @@
+$ heroku buildpacks:set heroku/python
 git+https://github.com/Rapptz/discord.py@rewrite
