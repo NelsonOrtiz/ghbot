@@ -1,249 +1,147 @@
-[
-    "4chan",
-    "a$$",
-    "a2m",
-    "air-lock",
-    "anal sex",
-    "anal",
-    "anilingus",
-    "ass to mouth",
-    "ass",
-    "atm",
-    "banjee",
-    "bara",
-    "bareback",
-    "bear",
-    "beard",
-    "bi-curious",
-    "bitch",
-    "blowjob",
-    "blue balls",
-    "boobs",
-    "bottom",
-    "breasts",
-    "breeder",
-    "bugchasing",
-    "bukkake",
-    "butch",
-    "butt",
-    "camel toe",
-    "camel-toe",
-    "centerfold",
-    "chicken",
-    "chickenhawk",
-    "chickenhead",
-    "childbirth",
-    "chub",
-    "circle-jerk",
-    "clit",
-    "clitoris",
-    "cock",
-    "cock-tease",
-    "cornhole",
-    "cougar",
-    "creampie",
-    "cum",
-    "cum-shot",
-    "cunt",
-    "daddy",
-    "daisy-chain",
-    "danbooru",
-    "deep-throat",
-    "deep-throating",
-    "dicc",
-    "dick",
-    "dildo",
-    "dilf",
-    "dirty sanchez",
-    "dirty-sanchez",
-    "dogging",
-    "donkey-punch",
-    "douche",
-    "down-low",
-    "downblouse",
-    "dyke",
-    "facial",
-    "fack",
-    "fag-hag",
-    "felching",
-    "fluffer",
-    "fock",
-    "fruit",
-    "fuck",
-    "fucks",
-    "fullnelson",
-    "g-spot",
-    "gang-bang",
-    "gay-for-pay",
-    "genitals",
-    "girlfriend experience",
-    "glory hole",
-    "glory-hole",
-    "gokkun",
-    "gonzo",
-    "gspot",
-    "hogging",
-    "hot-karl",
-    "insert",
-    "intercourse",
-    "jack off",
-    "lesbian",
-    "lipstick",
-    "mama-san",
-    "mat",
-    "menage",
-    "mile high",
-    "milf",
-    "modafoka",
-    "money shot",
-    "motherfucker",
-    "naked",
-    "nibble",
-    "nipples",
-    "nookie",
-    "nsfw",
-    "nude",
-    "oral",
-    "oral-sex",
-    "orgasm",
-    "ovaries",
-    "paysite",
-    "pearl necklace",
-    "pegging",
-    "penis",
-    "pirate",
-    "point-of-view",
-    "porn",
-    "pornhub",
-    "profanity",
-    "pussy",
-    "queen",
-    "quickie",
-    "rosebud",
-    "rusty-trombone",
-    "saddlebacking",
-    "sag",
-    "saggie",
-    "saggy",
-    "serosorting",
-    "sex",
-    "shemale",
-    "slut",
-    "snowballing",
-    "sodomite",
-    "soggy",
-    "stds",
-    "swish",
-    "switch",
-    "teabagging",
-    "testicles",
-    "tit-fuck",
-    "tits",
-    "titsfuck",
-    "top",
-    "trade",
-    "troll",
-    "turkey slap",
-    "twat",
-    "twink",
-    "upskirt",
-    "vagina",
-    "vaginalwanker",
-    "whale tail",
-    "whore",
-    "xbooru",
-    "yandere",
-    "agfay",
-    "airlock",
-    "arse",
-    "avm",
-    "ballbuster,balls",
-    "batty",
-    "bowy",
-    "brownie",
-    "bugger",
-    "bukkake",
-    "butch",
-    "cock",
-    "cream pie",
-    "cream-pie",
-    "creampie",
-    "cucc",
-    "cuck",
-    "deepthroat",
-    "double penetration",
-    "double-penetration",
-    "doublepenetration",
-    "dp",
-    "dt",
-    "dyke",
-    "echi",
-    "facial",
-    "fag",
-    "fagg",
-    "faggot",
-    "fairy",
-    "fapping",
-    "fat",
-    "foursome",
-    "fug",
-    "full nelson",
-    "furry",
-    "gang bang",
-    "gang-bang",
-    "gangbang",
-    "gokkun",
-    "golden shower",
-    "goldenshower",
-    "h",
-    "hentai",
-    "hitter",
-    "humiliation",
-    "jackoff",
-    "jerk",
-    "jerking",
-    "lewd",
-    "masturbation",
-    "muff",
-    "muffdiver",
-    "muncher",
-    "pansy",
-    "pegging",
-    "pillow",
-    "pimp",
-    "pooftah",
-    "poofter",
-    "porn",
-    "pornographic",
-    "pornography",
-    "poufter",
-    "pron",
-    "pufter",
-    "queer",
-    "rape",
-    "sex",
-    "sexual",
-    "shag",
-    "shagger",
-    "skank",
-    "skank",
-    "slut",
-    "sperm",
-    "strap on",
-    "strap-on",
-    "swallow",
-    "swallower",
-    "swallows",
-    "thespian",
-    "thot",
-    "threesome",
-    "tosser",
-    "trap",
-    "uncensored",
-    "weeny",
-    "whinnie",
-    "whore",
-    "yaoi",
-    "yuri",
-    "xxx"
-]
+"""
+MIT License
+
+Copyright (c) 2017 Grok's naughty dev XAOS
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+"""
+
+import discord
+from discord.ext import commands
+import bs4 as bs
+import urllib.request
+from bs4 import BeautifulSoup
+from urllib.request import Request, urlopen
+import json
+import io
+import safygiphy
+from ext import embedtobox
+
+class Nsfw:
+    """ Nsfw commands """
+    def __init__(gh, bot):
+        gh.bot = bot
+
+    async def __local_check(gh, ctx):
+        if not ctx.channel.is_nsfw():
+            return False
+        git = gh.bot.get_cog('Git')
+        if not await git.starred('kyb3r/ghbot.py'):
+            return False
+        return True
+
+    @commands.group(invoke_without_command=True)
+    async def nsfw(gh, ctx):
+        """ Get random lewds from the web """
+        pass
+
+    @nsfw.command()
+    async def xbooru(gh, ctx):
+        """ Random image from Xbooru """
+        try:
+            try:
+                await ctx.message.delete()
+            except discord.Forbidden:
+                pass
+            await ctx.channel.trigger_typing()
+            query = urllib.request.urlopen("http://xbooru.com/index.php?page=post&s=random").read()
+            soup = bs.BeautifulSoup(query, 'html.parser')
+            image = soup.find(id="image").get("src")
+            last = str(image.split('?')[-2]).replace('//', '/').replace(':/', '://')
+            em = discord.Embed(colour=discord.Colour(0xed791d))
+            em.description = f'[Full Size Link*]({last})'
+            em.set_image(url=last)
+            em.set_footer(text='* click link at your own risk!')
+            try:
+                await ctx.send(embed=em)
+            except discord.HTTPException:
+                await ctx.send('Unable to send embeds here!')
+                try:
+                    async with ctx.session.get(image) as resp:
+                        image = await resp.read()
+                    with io.BytesIO(image) as file:
+                        await ctx.send(file=discord.File(file, 'xbooru.png'))
+                except discord.HTTPException:
+                    await ctx.send(image)
+
+        except Exception as e:
+            await ctx.send(f'```{e}```')
+
+    @commands.command(aliases=['gelbooru'])
+    async def gel(gh, ctx):
+        """ Random image from Gelbooru """
+        try:
+            try:
+                await ctx.message.delete()
+            except discord.Forbidden:
+                pass
+
+            await ctx.channel.trigger_typing()
+            query = urllib.request.urlopen("http://www.gelbooru.com/index.php?page=post&s=random").read()
+            soup = bs.BeautifulSoup(query, 'html.parser')
+            sans = soup.find_all('div', {'class': 'highres-show'})
+            partial = soup.find(id="image").get("src")
+            image = partial.replace('//', '/').replace(':/', '://')
+
+            em = discord.Embed(colour=discord.Colour(0xed791d))
+            em.description = f'[Full Size Link*]({image})'
+            em.set_image(url=image)
+            em.set_footer(text='* click link at your own risk!')
+            try:
+                await ctx.send(embed=em)
+            except discord.HTTPException:
+                # em_list = await embedtobox.etb(em)
+                # for page in em_list:
+                #    await ctx.send(page)
+                await ctx.send('Unable to send embeds here!')
+                try:
+                    async with ctx.session.get(image) as resp:
+                        image = await resp.read()
+                    with io.BytesIO(image) as file:
+                        await ctx.send(file=discord.File(file, 'gelbooru.png'))
+                except discord.HTTPException:
+                    await ctx.send(image)
+
+        except Exception as e:
+            await ctx.send(f'```{e}```')
+
+    @nsfw.command()
+    async def gif(gh, ctx, *, tag):
+        """ Get a random lewd gif
+        Usage: gif <tag>
+        Available tags: rule34, nsfw, hentai, tits... """
+        try:
+            await ctx.message.delete()
+        except discord.Forbidden:
+            pass
+        g = safygiphy.Giphy()
+        gif = g.random(tag=tag)
+        color = await ctx.get_dominant_color(ctx.author.avatar_url)
+        em = discord.Embed(color=color)
+        em.set_image(url=str(gif.get('data', {}).get('image_original_url')))
+        try:
+            await ctx.send(embed=em)
+        except discord.HTTPException:
+            em_list = await embedtobox.etb(em)
+            for page in em_list:
+                await ctx.send(page)
+
+
+def setup(bot):
+    bot.add_cog(Nsfw(bot))
